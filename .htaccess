@@ -1,0 +1,44 @@
+RewriteEngine On
+
+# 1. Force www
+RewriteCond %{HTTP_HOST} ^kovai.city$ [NC]
+RewriteRule ^(.*)$ https://www.kovai.city/$1 [R=301,L]
+
+# 2. Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# 3. Clean SEO-friendly Event URLs
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^event-([a-zA-Z0-9_-]+)/?$ event_details.php?slug=$1 [L,QSA]
+
+# 4. Clean SEO-friendly News URLs
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^news-([a-zA-Z0-9_-]+)/?$ city_news_details.php?slug=$1 [L,QSA]
+
+# 5. Clean SEO-friendly New In CHE URLs (path style & legacy)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^new-in-che/?$ new_in_che.php [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^new_in_che_details/([a-zA-Z0-9_-]+)/?$ new_in_che_details.php?slug=$1 [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^new_in_cbe_details/([a-zA-Z0-9_-]+)/?$ new_in_che_details.php?slug=$1 [L,QSA]
+
+# 6. Clean SEO-friendly Spot / New-in-CHE URLs
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^spot-([a-zA-Z0-9_-]+)/?$ new_in_che_details.php?slug=$1 [L,QSA]
+
+# 5. Security Headers
+
+# 6. Gzip
+
+# 7. Browser Caching
