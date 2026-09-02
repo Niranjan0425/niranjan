@@ -1,0 +1,1830 @@
+[
+    {
+        "id": "2",
+        "companyName": "Saathvigam",
+        "postedBy": "ArunKanth.V",
+        "contactNumber": "9944742045",
+        "email": "kanthisback@gmail.com",
+        "image": "https:\/\/Kovaicity.b-cdn.net\/Saathviugam.jpg",
+        "description": "Spiritual Growth Starts Here",
+        "adTitle": "",
+        "detailedExplanation": "",
+        "url": "https:\/\/www.saathvigam.com\/",
+        "ctaLabel": "register now",
+        "category": "City-news page",
+        "subCategory": "All Categories",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 37,
+        "clicks": 0,
+        "history": {
+            "2026-07-29": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-07-30": {
+                "views": 2,
+                "clicks": 0
+            },
+            "2026-07-31": {
+                "views": 9,
+                "clicks": 0
+            },
+            "2026-08-06": {
+                "views": 1,
+                "clicks": 0
+            },
+            "2026-08-07": {
+                "views": 11,
+                "clicks": 0
+            },
+            "2026-08-08": {
+                "views": 11,
+                "clicks": 0
+            },
+            "2026-08-10": {
+                "views": 7,
+                "clicks": 0
+            },
+            "2026-08-13": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-08-14": {
+                "views": 1,
+                "clicks": 0
+            },
+            "2026-08-17": {
+                "views": 2,
+                "clicks": 0
+            },
+            "2026-08-19": {
+                "views": 1,
+                "clicks": 0
+            }
+        },
+        "hourly": {
+            "2026-07-30": {
+                "05": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-07-31": {
+                "17": {
+                    "views": 9,
+                    "clicks": 0
+                }
+            },
+            "2026-08-06": {
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-07": {
+                "13": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "15": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "19": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "20": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "21": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "22": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-08": {
+                "00": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "08": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "10": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "13": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "15": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 4,
+                    "clicks": 0
+                }
+            },
+            "2026-08-10": {
+                "16": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            },
+            "2026-08-13": {
+                "16": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-14": {
+                "15": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-17": {
+                "13": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-19": {
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            }
+        },
+        "devices": {
+            "mobile": {
+                "views": 6,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 42,
+                "clicks": 0
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 48,
+                "clicks": 0
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": {
+            "city_news_details.php?id=19": {
+                "views": 4,
+                "clicks": 0
+            },
+            "city_news_details.php?id=24": {
+                "views": 1,
+                "clicks": 0
+            },
+            "city_news_details.php?id=25": {
+                "views": 9,
+                "clicks": 0
+            },
+            "city_news_details.php?id=29": {
+                "views": 1,
+                "clicks": 0
+            },
+            "city_news_details.php?slug=alumni-pearl-jubilee-reunion": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-alumni-pearl-jubilee-reunion": {
+                "views": 3,
+                "clicks": 0
+            },
+            "news-public-opposes-setting-up-of-sewage-treatment-plant": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-farmers-suggest-the-government-set-up-a-water-bank-scheme": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-following-hindu-munnani-s-complaint-temple-land-locked": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-colored-appalams-sold-openly": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-gomangalamputhur-tollgate-comes-into-operation-public-dissatisfied-over-fee-hike": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-from-server-outage-to-suspensions-what-really-happened-in-the-municipal-corporation": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-modern-technology-in-handloom-park-soon-expected-to-boost-market-opportunities": {
+                "views": 8,
+                "clicks": 0
+            },
+            "news-mineral-resources-must-not-cross-the-border-from-tamil-nadu-to-kerala-revenue-department-forms-teams-to-monitor": {
+                "views": 3,
+                "clicks": 0
+            },
+            "news-street-vendors-outraged-after-being-cheated-despite-paying-11-lakh": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-anti-drug-awareness-marathon-held": {
+                "views": 4,
+                "clicks": 0
+            },
+            "news-avvaiyar-was-the-first-person-to-use-the-word-atom": {
+                "views": 2,
+                "clicks": 0
+            },
+            "news-using-ai-will-sweeten-sugarcane-yield-experts-advise-to-get-30-higher-output": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-cumta-introduces-a-new-facility-to-assist-land-acquisition-for-future-transport-infrastructure": {
+                "views": 2,
+                "clicks": 0
+            },
+            "news-outrage-as-major-mukund-varadarajan-road-signboard-vandalized": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-the-mission-of-sharada-peetham-is-to-destroy-unrighteousness-and-establish-hindu-dharma": {
+                "views": 1,
+                "clicks": 0
+            },
+            "index.php": {
+                "views": 1,
+                "clicks": 0
+            },
+            "classified_details.php?id=2": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-plight-of-ponniyamman-temple-road-left-unrepaired-for-10-years": {
+                "views": 1,
+                "clicks": 0
+            }
+        },
+        "geo_locations": {
+            "Coimbatore, Tamil Nadu, India": {
+                "views": 35,
+                "clicks": 0
+            },
+            "New York, New York, United States": {
+                "views": 9,
+                "clicks": 0
+            },
+            "Chennai, Tamil Nadu, India": {
+                "views": 7,
+                "clicks": 0
+            }
+        },
+        "status": "approved",
+        "date": "2026-07-28",
+        "rejectionReason": ""
+    },
+    {
+        "id": "3",
+        "companyName": "Ak Online",
+        "postedBy": "ArunKanth.V",
+        "contactNumber": "9944742045",
+        "email": "kanthisback@gmail.com",
+        "image": "https:\/\/Kovaicity.b-cdn.net\/Akonline.png",
+        "description": "Watch Independent Films in HD",
+        "adTitle": "",
+        "detailedExplanation": "",
+        "url": "https:\/\/www.akonline.app\/",
+        "ctaLabel": "Watch Now",
+        "category": "New-In-CHE page",
+        "subCategory": "All Categories",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 21,
+        "clicks": 2,
+        "history": {
+            "2026-07-29": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-07-30": {
+                "views": 2,
+                "clicks": 0
+            },
+            "2026-07-31": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-08-07": {
+                "views": 2,
+                "clicks": 0
+            },
+            "2026-08-08": {
+                "views": 6,
+                "clicks": 0
+            },
+            "2026-08-10": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-08-13": {
+                "views": 7,
+                "clicks": 2
+            },
+            "2026-08-14": {
+                "views": 1,
+                "clicks": 0
+            },
+            "2026-08-17": {
+                "views": 1,
+                "clicks": 0
+            },
+            "2026-08-19": {
+                "views": 1,
+                "clicks": 0
+            }
+        },
+        "hourly": {
+            "2026-07-30": {
+                "05": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-07-31": {
+                "17": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            },
+            "2026-08-07": {
+                "15": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-08": {
+                "10": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "15": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            },
+            "2026-08-10": {
+                "17": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-13": {
+                "17": {
+                    "views": 3,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 4,
+                    "clicks": 2
+                }
+            },
+            "2026-08-14": {
+                "15": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-17": {
+                "13": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-19": {
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            }
+        },
+        "devices": {
+            "mobile": {
+                "views": 0,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 26,
+                "clicks": 2
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 26,
+                "clicks": 2
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": {
+            "new_in_cbe_details.php?id=15": {
+                "views": 2,
+                "clicks": 0
+            },
+            "new_in_cbe_details.php?id=14": {
+                "views": 3,
+                "clicks": 0
+            },
+            "new_in_cbe_details.php?id=18": {
+                "views": 3,
+                "clicks": 0
+            },
+            "new_in_cbe_details.php?slug=perur-noyyal-riverbed-restored-to-30-meter-width-in-mass-eco-clean-drive": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-200-crore-msme-technology-centre-approved-at-arasur-in-sulur-block": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-civic-body-halts-sewage-treatment-plant-project-near-chinnavedampatti-lake": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-4000-crore-coimbatore-ariyalur-765-kv-power-corridor-sanctioned": {
+                "views": 4,
+                "clicks": 0
+            },
+            "spot-credai-fairpro-2026-flagship-property-expo-opens-at-codissia": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-manchester-of-south-india-home-to-50000-engineering-textile-units": {
+                "views": 2,
+                "clicks": 0
+            },
+            "spot-over-100-year-heritage-of-rs-puram-filter-coffee-culture": {
+                "views": 1,
+                "clicks": 0
+            },
+            "classified_details.php?id=3": {
+                "views": 5,
+                "clicks": 0
+            },
+            "new_in_che.php": {
+                "views": 1,
+                "clicks": 2
+            },
+            "spot-kathipara-sky-bridge-engineering-feat-completed-for-metro-line-5": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-mylapore-heritage-bistro-nalla-restores-1920s-chettinad-courtyard-residence": {
+                "views": 1,
+                "clicks": 0
+            },
+            "index.php": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-tholkappia-poonga-adyar-eco-park-estuary-restoration-restores-coromandel-coast-wetlands": {
+                "views": 1,
+                "clicks": 0
+            }
+        },
+        "geo_locations": {
+            "Coimbatore, Tamil Nadu, India": {
+                "views": 19,
+                "clicks": 0
+            },
+            "Chennai, Tamil Nadu, India": {
+                "views": 10,
+                "clicks": 2
+            }
+        },
+        "status": "approved",
+        "date": "2026-07-28",
+        "rejectionReason": ""
+    },
+    {
+        "id": "5",
+        "companyName": "Art Knowledge",
+        "postedBy": "ArunKanth.V",
+        "contactNumber": "9944742045",
+        "email": "kanthisback@gmail.com",
+        "image": "https:\/\/InfoplutoDocs.b-cdn.net\/Art.Knowledge.png",
+        "description": "Creative Industry Knowledge Hub",
+        "adTitle": "",
+        "detailedExplanation": "",
+        "url": "https:\/\/www.artknowledge.in\/",
+        "ctaLabel": "learn more",
+        "category": "Classified page",
+        "subCategory": "Arts Crafts Culture",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 0,
+        "clicks": 0,
+        "history": {
+            "2026-07-30": {
+                "views": 3,
+                "clicks": 0
+            }
+        },
+        "hourly": {
+            "2026-07-30": {
+                "06": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            }
+        },
+        "devices": {
+            "mobile": {
+                "views": 0,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 3,
+                "clicks": 0
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 3,
+                "clicks": 0
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": {
+            "classified.php": {
+                "views": 1,
+                "clicks": 0
+            },
+            "classified_details.php?id=5": {
+                "views": 2,
+                "clicks": 0
+            }
+        },
+        "geo_locations": {
+            "Coimbatore, Tamil Nadu, India": {
+                "views": 3,
+                "clicks": 0
+            }
+        },
+        "status": "approved",
+        "date": "2026-07-28",
+        "rejectionReason": ""
+    },
+    {
+        "id": "7",
+        "companyName": "Infopluto",
+        "postedBy": "AK",
+        "contactNumber": "9944742045",
+        "email": "kanthisback@gmail.com",
+        "image": "https:\/\/Kovaicity.b-cdn.net\/Infopluto%20Media%20Works.png",
+        "description": "Build websites, apps & software with Infopluto.",
+        "adTitle": "",
+        "detailedExplanation": "",
+        "url": "https:\/\/infopluto.com\/",
+        "ctaLabel": "visit site",
+        "category": "Events page",
+        "subCategory": "All Categories",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 39,
+        "clicks": 1,
+        "history": {
+            "2026-07-30": {
+                "views": 7,
+                "clicks": 1
+            },
+            "2026-07-31": {
+                "views": 5,
+                "clicks": 0
+            },
+            "2026-08-06": {
+                "views": 5,
+                "clicks": 0
+            },
+            "2026-08-07": {
+                "views": 10,
+                "clicks": 0
+            },
+            "2026-08-08": {
+                "views": 8,
+                "clicks": 0
+            },
+            "2026-08-10": {
+                "views": 5,
+                "clicks": 0
+            },
+            "2026-08-11": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-08-13": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-08-14": {
+                "views": 1,
+                "clicks": 0
+            },
+            "2026-08-17": {
+                "views": 1,
+                "clicks": 0
+            },
+            "2026-08-19": {
+                "views": 1,
+                "clicks": 0
+            },
+            "2026-08-20": {
+                "views": 2,
+                "clicks": 0
+            }
+        },
+        "hourly": {
+            "2026-07-30": {
+                "05": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "06": {
+                    "views": 0,
+                    "clicks": 1
+                },
+                "17": {
+                    "views": 4,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-07-31": {
+                "17": {
+                    "views": 5,
+                    "clicks": 0
+                }
+            },
+            "2026-08-06": {
+                "16": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 4,
+                    "clicks": 0
+                }
+            },
+            "2026-08-07": {
+                "12": {
+                    "views": 3,
+                    "clicks": 0
+                },
+                "13": {
+                    "views": 3,
+                    "clicks": 0
+                },
+                "14": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "15": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-08": {
+                "08": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "10": {
+                    "views": 3,
+                    "clicks": 0
+                },
+                "13": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            },
+            "2026-08-10": {
+                "16": {
+                    "views": 3,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-11": {
+                "16": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-13": {
+                "16": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            },
+            "2026-08-14": {
+                "15": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-17": {
+                "13": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-19": {
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-20": {
+                "18": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            }
+        },
+        "devices": {
+            "mobile": {
+                "views": 3,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 48,
+                "clicks": 1
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 51,
+                "clicks": 1
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": {
+            "event_details.php?id=19": {
+                "views": 2,
+                "clicks": 0
+            },
+            "event_details.php?id=18": {
+                "views": 0,
+                "clicks": 1
+            },
+            "event_details.php?id=21": {
+                "views": 7,
+                "clicks": 0
+            },
+            "event_details.php?id=22": {
+                "views": 4,
+                "clicks": 0
+            },
+            "event_details.php?id=33": {
+                "views": 3,
+                "clicks": 0
+            },
+            "event_details.php?id=34": {
+                "views": 2,
+                "clicks": 0
+            },
+            "event_details.php?slug=arya-vysya-maanadu-2026": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event_details.php?slug=plastech-india-expo-2026": {
+                "views": 2,
+                "clicks": 0
+            },
+            "event-plastech-india-expo-2026": {
+                "views": 4,
+                "clicks": 0
+            },
+            "event-ace-reflect-coimbatore-2026": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event-international-conference-on-sustainable-electric-mobility-icsem-2026": {
+                "views": 3,
+                "clicks": 0
+            },
+            "event-good-timing-ji-stand-up-comedy-special-by-karthik-kumar": {
+                "views": 5,
+                "clicks": 0
+            },
+            "event-arya-vysya-maanadu-2026": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event-siruthuli-eco-kovai-marathon-tree-plantation-drive": {
+                "views": 5,
+                "clicks": 0
+            },
+            "event-the-one-santhosh-narayanan-live-in-concert": {
+                "views": 6,
+                "clicks": 0
+            },
+            "event-the-august-affair-a-taylor-swift-fan-experience": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event-chennai-tech-ai-mixer-social": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event-mf-india-2026-metal-forming-expo": {
+                "views": 3,
+                "clicks": 0
+            }
+        },
+        "geo_locations": {
+            "Coimbatore, Tamil Nadu, India": {
+                "views": 44,
+                "clicks": 1
+            },
+            "Chennai, Tamil Nadu, India": {
+                "views": 7,
+                "clicks": 0
+            }
+        },
+        "status": "approved",
+        "date": "2026-07-30",
+        "rejectionReason": ""
+    },
+    {
+        "id": "8",
+        "companyName": "OnlinePluto",
+        "postedBy": "AK",
+        "contactNumber": "9944742045",
+        "email": "kanthisback@gmail.com",
+        "image": "https:\/\/Kovaicity.b-cdn.net\/Onlinepluto.jpeg",
+        "description": "OnlinePluto \u2013 Domains & Web Hosting Made Simple",
+        "adTitle": "OnlinePluto \u2013 Domains & Web Hosting Made Simple",
+        "detailedExplanation": "OnlinePluto \u2013 Domains & Web Hosting Made Simple\n\nFast, reliable domain registrations, SSD cloud hosting, and high-performance VPS infrastructure for your online business.",
+        "url": "https:\/\/onlinepluto.com\/",
+        "ctaLabel": "register now",
+        "category": "Classified page",
+        "subCategory": "Technology",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 2,
+        "clicks": 1,
+        "history": {
+            "2026-07-30": {
+                "views": 5,
+                "clicks": 1
+            },
+            "2026-08-08": {
+                "views": 2,
+                "clicks": 0
+            }
+        },
+        "hourly": {
+            "2026-07-30": {
+                "05": {
+                    "views": 0,
+                    "clicks": 1
+                },
+                "06": {
+                    "views": 3,
+                    "clicks": 0
+                },
+                "13": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-08": {
+                "10": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            }
+        },
+        "devices": {
+            "mobile": {
+                "views": 0,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 7,
+                "clicks": 1
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 7,
+                "clicks": 1
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": {
+            "classified_details.php?id=8": {
+                "views": 6,
+                "clicks": 1
+            },
+            "classified.php": {
+                "views": 1,
+                "clicks": 0
+            }
+        },
+        "geo_locations": {
+            "Coimbatore, Tamil Nadu, India": {
+                "views": 7,
+                "clicks": 1
+            }
+        },
+        "status": "approved",
+        "date": "2026-07-30",
+        "rejectionReason": ""
+    },
+    {
+        "id": "10",
+        "companyName": "Infopluto",
+        "postedBy": "Niranjan",
+        "contactNumber": "9025255617",
+        "email": "niranjanindhu1704@gmail.com",
+        "image": "https:\/\/Kovaicity.b-cdn.net\/Infopluto%20Media%20Works.png",
+        "description": "Build websites, apps & software with Infopluto.",
+        "adTitle": "",
+        "detailedExplanation": "",
+        "url": "https:\/\/Kovaicity.b-cdn.net\/Infopluto%20Media%20Works.png",
+        "ctaLabel": "visit site",
+        "category": "City-news page",
+        "subCategory": "All Categories",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 16,
+        "clicks": 0,
+        "history": {
+            "2026-07-31": {
+                "views": 8,
+                "clicks": 0
+            },
+            "2026-08-07": {
+                "views": 2,
+                "clicks": 0
+            },
+            "2026-08-08": {
+                "views": 6,
+                "clicks": 0
+            },
+            "2026-08-10": {
+                "views": 6,
+                "clicks": 0
+            },
+            "2026-08-13": {
+                "views": 2,
+                "clicks": 0
+            }
+        },
+        "hourly": {
+            "2026-07-31": {
+                "17": {
+                    "views": 8,
+                    "clicks": 0
+                }
+            },
+            "2026-08-07": {
+                "13": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-08": {
+                "10": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "14": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "15": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            },
+            "2026-08-10": {
+                "16": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "17": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-13": {
+                "16": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            }
+        },
+        "devices": {
+            "mobile": {
+                "views": 5,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 19,
+                "clicks": 0
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 24,
+                "clicks": 0
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": {
+            "city_news_details.php?id=25": {
+                "views": 8,
+                "clicks": 0
+            },
+            "news-alumni-pearl-jubilee-reunion": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-public-opposes-setting-up-of-sewage-treatment-plant": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-what-really-happened": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-encroachments-threatening-roadside-trees-environmentalists-intervene-in-cutting-attempt": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-modern-technology-in-handloom-park-soon-expected-to-boost-market-opportunities": {
+                "views": 3,
+                "clicks": 0
+            },
+            "news-street-vendors-outraged-after-being-cheated-despite-paying-11-lakh": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-anti-drug-awareness-marathon-held": {
+                "views": 5,
+                "clicks": 0
+            },
+            "news-using-ai-will-sweeten-sugarcane-yield-experts-advise-to-get-30-higher-output": {
+                "views": 1,
+                "clicks": 0
+            },
+            "news-cumta-introduces-a-new-facility-to-assist-land-acquisition-for-future-transport-infrastructure": {
+                "views": 2,
+                "clicks": 0
+            }
+        },
+        "geo_locations": {
+            "Coimbatore, Tamil Nadu, India": {
+                "views": 21,
+                "clicks": 0
+            },
+            "New York, New York, United States": {
+                "views": 1,
+                "clicks": 0
+            },
+            "Chennai, Tamil Nadu, India": {
+                "views": 2,
+                "clicks": 0
+            }
+        },
+        "status": "approved",
+        "date": "2026-07-31",
+        "rejectionReason": ""
+    },
+    {
+        "id": "11",
+        "companyName": "Infopluto",
+        "postedBy": "Niranjan",
+        "contactNumber": "9025255617",
+        "email": "niranjanindhu1704@gmail.com",
+        "image": "https:\/\/Kovaicity.b-cdn.net\/Infopluto%20Media%20Works.png",
+        "description": "Build websites, apps & software with Infopluto.",
+        "adTitle": "",
+        "detailedExplanation": "",
+        "url": "https:\/\/Kovaicity.b-cdn.net\/Infopluto%20Media%20Works.png",
+        "ctaLabel": "visit site",
+        "category": "New-In-CHE page",
+        "subCategory": "All Categories",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 8,
+        "clicks": 0,
+        "history": {
+            "2026-07-31": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-08-07": {
+                "views": 1,
+                "clicks": 0
+            },
+            "2026-08-08": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-08-10": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-08-13": {
+                "views": 1,
+                "clicks": 0
+            }
+        },
+        "hourly": {
+            "2026-07-31": {
+                "17": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            },
+            "2026-08-07": {
+                "15": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-08": {
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-10": {
+                "17": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-13": {
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            }
+        },
+        "devices": {
+            "mobile": {
+                "views": 0,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 11,
+                "clicks": 0
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 11,
+                "clicks": 0
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": {
+            "new_in_cbe_details.php?id=18": {
+                "views": 3,
+                "clicks": 0
+            },
+            "new_in_cbe_details.php?slug=perur-noyyal-riverbed-restored-to-30-meter-width-in-mass-eco-clean-drive": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-4000-crore-coimbatore-ariyalur-765-kv-power-corridor-sanctioned": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-200-crore-msme-technology-centre-approved-at-arasur-in-sulur-block": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-credai-fairpro-2026-flagship-property-expo-opens-at-codissia": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-over-100-year-heritage-of-rs-puram-filter-coffee-culture": {
+                "views": 2,
+                "clicks": 0
+            },
+            "spot-manchester-of-south-india-home-to-50000-engineering-textile-units": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-kathipara-sky-bridge-engineering-feat-completed-for-metro-line-5": {
+                "views": 1,
+                "clicks": 0
+            }
+        },
+        "geo_locations": {
+            "Coimbatore, Tamil Nadu, India": {
+                "views": 10,
+                "clicks": 0
+            },
+            "Chennai, Tamil Nadu, India": {
+                "views": 1,
+                "clicks": 0
+            }
+        },
+        "status": "approved",
+        "date": "2026-07-31",
+        "rejectionReason": ""
+    },
+    {
+        "id": "12",
+        "companyName": "Infopluto",
+        "postedBy": "Niranjan",
+        "contactNumber": "9025255617",
+        "email": "niranjanindhu1704@gmail.com",
+        "image": "https:\/\/Kovaicity.b-cdn.net\/Infopluto%20Media%20Works.png",
+        "description": "Build websites, apps & software with Infopluto.",
+        "adTitle": "",
+        "detailedExplanation": "",
+        "url": "https:\/\/Kovaicity.b-cdn.net\/Infopluto%20Media%20Works.png",
+        "ctaLabel": "visit site",
+        "category": "Classified page",
+        "subCategory": "All Categories",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 0,
+        "clicks": 0,
+        "history": [],
+        "hourly": [],
+        "devices": {
+            "mobile": {
+                "views": 0,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 0,
+                "clicks": 0
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 0,
+                "clicks": 0
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": [],
+        "geo_locations": [],
+        "status": "approved",
+        "date": "2026-07-31",
+        "rejectionReason": ""
+    },
+    {
+        "id": "13",
+        "companyName": "Saathvigam",
+        "postedBy": "Niranjan",
+        "contactNumber": "9025255617",
+        "email": "niranjanindhu1704@gmail.com",
+        "image": "https:\/\/Kovaicity.b-cdn.net\/Saathviugam.jpg",
+        "description": "Spiritual Growth Starts Here",
+        "adTitle": "",
+        "detailedExplanation": "",
+        "url": "https:\/\/www.saathvigam.com\/",
+        "ctaLabel": "visit site",
+        "category": "Events page",
+        "subCategory": "All Categories",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 21,
+        "clicks": 0,
+        "history": {
+            "2026-07-31": {
+                "views": 4,
+                "clicks": 0
+            },
+            "2026-08-06": {
+                "views": 3,
+                "clicks": 0
+            },
+            "2026-08-07": {
+                "views": 6,
+                "clicks": 0
+            },
+            "2026-08-08": {
+                "views": 4,
+                "clicks": 0
+            },
+            "2026-08-10": {
+                "views": 5,
+                "clicks": 0
+            },
+            "2026-08-13": {
+                "views": 3,
+                "clicks": 0
+            }
+        },
+        "hourly": {
+            "2026-07-31": {
+                "17": {
+                    "views": 4,
+                    "clicks": 0
+                }
+            },
+            "2026-08-06": {
+                "18": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            },
+            "2026-08-07": {
+                "12": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "13": {
+                    "views": 2,
+                    "clicks": 0
+                },
+                "15": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-08": {
+                "10": {
+                    "views": 3,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 1,
+                    "clicks": 0
+                }
+            },
+            "2026-08-10": {
+                "16": {
+                    "views": 3,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-13": {
+                "16": {
+                    "views": 3,
+                    "clicks": 0
+                }
+            }
+        },
+        "devices": {
+            "mobile": {
+                "views": 0,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 25,
+                "clicks": 0
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 25,
+                "clicks": 0
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": {
+            "event_details.php?id=22": {
+                "views": 2,
+                "clicks": 0
+            },
+            "event_details.php?id=21": {
+                "views": 2,
+                "clicks": 0
+            },
+            "event_details.php?id=33": {
+                "views": 3,
+                "clicks": 0
+            },
+            "event_details.php?id=34": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event_details.php?slug=arya-vysya-maanadu-2026": {
+                "views": 2,
+                "clicks": 0
+            },
+            "event_details.php?slug=plastech-india-expo-2026": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event-plastech-india-expo-2026": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event-arya-vysya-maanadu-2026": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event-international-conference-on-sustainable-electric-mobility-icsem-2026": {
+                "views": 1,
+                "clicks": 0
+            },
+            "event-good-timing-ji-stand-up-comedy-special-by-karthik-kumar": {
+                "views": 4,
+                "clicks": 0
+            },
+            "event-siruthuli-eco-kovai-marathon-tree-plantation-drive": {
+                "views": 2,
+                "clicks": 0
+            },
+            "event-coimbatore-startup-founders-ai-networking-summit": {
+                "views": 2,
+                "clicks": 0
+            },
+            "event-the-one-santhosh-narayanan-live-in-concert": {
+                "views": 3,
+                "clicks": 0
+            }
+        },
+        "geo_locations": {
+            "Coimbatore, Tamil Nadu, India": {
+                "views": 23,
+                "clicks": 0
+            },
+            "Chennai, Tamil Nadu, India": {
+                "views": 2,
+                "clicks": 0
+            }
+        },
+        "status": "approved",
+        "date": "2026-07-31",
+        "rejectionReason": ""
+    },
+    {
+        "id": "14",
+        "companyName": "Saathvigam",
+        "postedBy": "Niranjan",
+        "contactNumber": "9944742045",
+        "email": "niranjanindhu1704@gmail.com",
+        "image": "https:\/\/Kovaicity.b-cdn.net\/Saathviugam.jpg",
+        "description": "Spiritual Growth Starts Here",
+        "adTitle": "",
+        "detailedExplanation": "",
+        "url": "https:\/\/www.saathvigam.com\/",
+        "ctaLabel": "learn more",
+        "category": "New-In-CHE page",
+        "subCategory": "All Categories",
+        "month": "August 2026",
+        "totalViews": 0,
+        "budget": 10000,
+        "views": 5,
+        "clicks": 0,
+        "history": {
+            "2026-07-31": {
+                "views": 2,
+                "clicks": 0
+            },
+            "2026-08-08": {
+                "views": 2,
+                "clicks": 0
+            },
+            "2026-08-10": {
+                "views": 3,
+                "clicks": 0
+            }
+        },
+        "hourly": {
+            "2026-07-31": {
+                "17": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-08": {
+                "18": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            },
+            "2026-08-10": {
+                "17": {
+                    "views": 1,
+                    "clicks": 0
+                },
+                "18": {
+                    "views": 2,
+                    "clicks": 0
+                }
+            }
+        },
+        "devices": {
+            "mobile": {
+                "views": 0,
+                "clicks": 0
+            },
+            "desktop": {
+                "views": 7,
+                "clicks": 0
+            },
+            "tablet": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "traffic_sources": {
+            "direct": {
+                "views": 7,
+                "clicks": 0
+            },
+            "search": {
+                "views": 0,
+                "clicks": 0
+            },
+            "social": {
+                "views": 0,
+                "clicks": 0
+            },
+            "referral": {
+                "views": 0,
+                "clicks": 0
+            }
+        },
+        "locations": {
+            "new_in_cbe_details.php?id=18": {
+                "views": 2,
+                "clicks": 0
+            },
+            "spot-4000-crore-coimbatore-ariyalur-765-kv-power-corridor-sanctioned": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-credai-fairpro-2026-flagship-property-expo-opens-at-codissia": {
+                "views": 1,
+                "clicks": 0
+            },
+            "spot-over-100-year-heritage-of-rs-puram-filter-coffee-culture": {
+                "views": 3,
+                "clicks": 0
+            }
+        },
+        "geo_locations": {
+            "Coimbatore, Tamil Nadu, India": {
+                "views": 7,
+                "clicks": 0
+            }
+        },
+        "status": "approved",
+        "date": "2026-07-31",
+        "rejectionReason": ""
+    }
+]
